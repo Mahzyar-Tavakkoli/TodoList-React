@@ -4,6 +4,7 @@
 ## Used tech
 - HTML
 - CSS
+- Bootstrap
 - javascript
 - React Js
 ---
